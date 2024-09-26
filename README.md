@@ -8,6 +8,9 @@ This demo is based on Spring Boot, WebSocket, and it accepts commands from the f
 ### api工具测试样例
 ![img.png](img.png)
 
+### 控制台样例
+![image](https://github.com/user-attachments/assets/8d69164c-1380-4c91-b0aa-aadb129f82c0)
+
 ---
 
 ### 注意：
